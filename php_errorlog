@@ -1,0 +1,49 @@
+[26-Aug-2025 13:23:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for dbq7zj3u6hjgpc failed: Name or service not known in /home/customer/www/rahul.millioncoders.net/public_html/HOTELS.COM/db.php:7
+Stack trace:
+#0 /home/customer/www/rahul.millioncoders.net/public_html/HOTELS.COM/db.php(7): mysqli_connect('dbq7zj3u6hjgpc', 'uzrprp3rmtdfr', Object(SensitiveParameterValue), 'dbq7zj3u6hjgpc')
+#1 /home/customer/www/rahul.millioncoders.net/public_html/HOTELS.COM/hotels.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rahul.millioncoders.net/public_html/HOTELS.COM/db.php on line 7
+[26-Aug-2025 13:24:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for dbq7zj3u6hjgpc failed: Name or service not known in /home/customer/www/rahul.millioncoders.net/public_html/HOTELS.COM/db.php:7
+Stack trace:
+#0 /home/customer/www/rahul.millioncoders.net/public_html/HOTELS.COM/db.php(7): mysqli_connect('dbq7zj3u6hjgpc', 'uzrprp3rmtdfr', Object(SensitiveParameterValue), 'dbq7zj3u6hjgpc')
+#1 /home/customer/www/rahul.millioncoders.net/public_html/HOTELS.COM/hotels.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rahul.millioncoders.net/public_html/HOTELS.COM/db.php on line 7
+[26-Aug-2025 13:24:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for dbq7zj3u6hjgpc failed: Name or service not known in /home/customer/www/rahul.millioncoders.net/public_html/HOTELS.COM/db.php:7
+Stack trace:
+#0 /home/customer/www/rahul.millioncoders.net/public_html/HOTELS.COM/db.php(7): mysqli_connect('dbq7zj3u6hjgpc', 'uzrprp3rmtdfr', Object(SensitiveParameterValue), 'dbq7zj3u6hjgpc')
+#1 /home/customer/www/rahul.millioncoders.net/public_html/HOTELS.COM/hotels.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rahul.millioncoders.net/public_html/HOTELS.COM/db.php on line 7
+[26-Aug-2025 13:26:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for dbq7zj3u6hjgpc failed: Name or service not known in /home/customer/www/rahul.millioncoders.net/public_html/HOTELS.COM/db.php:7
+Stack trace:
+#0 /home/customer/www/rahul.millioncoders.net/public_html/HOTELS.COM/db.php(7): mysqli_connect('dbq7zj3u6hjgpc', 'uzrprp3rmtdfr', Object(SensitiveParameterValue), 'dbq7zj3u6hjgpc')
+#1 /home/customer/www/rahul.millioncoders.net/public_html/HOTELS.COM/hotels.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rahul.millioncoders.net/public_html/HOTELS.COM/db.php on line 7
+[26-Aug-2025 13:34:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for dbq7zj3u6hjgpc failed: Name or service not known in /home/customer/www/rahul.millioncoders.net/public_html/HOTELS.COM/db.php:7
+Stack trace:
+#0 /home/customer/www/rahul.millioncoders.net/public_html/HOTELS.COM/db.php(7): mysqli_connect('dbq7zj3u6hjgpc', 'uzrprp3rmtdfr', Object(SensitiveParameterValue), 'dbq7zj3u6hjgpc')
+#1 /home/customer/www/rahul.millioncoders.net/public_html/HOTELS.COM/hotels.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rahul.millioncoders.net/public_html/HOTELS.COM/db.php on line 7
+[26-Aug-2025 13:35:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for dbq7zj3u6hjgpc failed: Name or service not known in /home/customer/www/rahul.millioncoders.net/public_html/HOTELS.COM/db.php:7
+Stack trace:
+#0 /home/customer/www/rahul.millioncoders.net/public_html/HOTELS.COM/db.php(7): mysqli_connect('dbq7zj3u6hjgpc', 'uzrprp3rmtdfr', Object(SensitiveParameterValue), 'dbq7zj3u6hjgpc')
+#1 /home/customer/www/rahul.millioncoders.net/public_html/HOTELS.COM/hotels.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rahul.millioncoders.net/public_html/HOTELS.COM/db.php on line 7
+[26-Aug-2025 13:36:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for dbq7zj3u6hjgpc failed: Name or service not known in /home/customer/www/rahul.millioncoders.net/public_html/HOTELS.COM/db.php:7
+Stack trace:
+#0 /home/customer/www/rahul.millioncoders.net/public_html/HOTELS.COM/db.php(7): mysqli_connect('dbq7zj3u6hjgpc', 'uzrprp3rmtdfr', Object(SensitiveParameterValue), 'dbq7zj3u6hjgpc')
+#1 /home/customer/www/rahul.millioncoders.net/public_html/HOTELS.COM/hotels.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rahul.millioncoders.net/public_html/HOTELS.COM/db.php on line 7
+[27-Aug-2025 19:19:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for dbq7zj3u6hjgpc failed: Name or service not known in /home/customer/www/rahul.millioncoders.net/public_html/HOTELS.COM/db.php:7
+Stack trace:
+#0 /home/customer/www/rahul.millioncoders.net/public_html/HOTELS.COM/db.php(7): mysqli_connect('dbq7zj3u6hjgpc', 'uzrprp3rmtdfr', Object(SensitiveParameterValue), 'dbq7zj3u6hjgpc')
+#1 /home/customer/www/rahul.millioncoders.net/public_html/HOTELS.COM/hotels.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rahul.millioncoders.net/public_html/HOTELS.COM/db.php on line 7
+ 
